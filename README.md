@@ -4,9 +4,9 @@
 
 **17 Yaşında Sistem, Altyapı ve Otomasyon Mühendisliği Adayı**
 
-[![Profile Views](https://komarev.com)](https://github.com)
-[![Followers](https://shields.io)](https://github.com?tab=followers)
-[![Stars](https://shields.io)](https://github.com?tab=stars)
+[![Profile Views](https://komarev.com)](https://github.com/mamiece)
+[![Followers](https://shields.io)](https://github.com/mamiece?tab=followers)
+[![Stars](https://shields.io)](https://github.com/mamiece?tab=stars)
 
 </div>
 
