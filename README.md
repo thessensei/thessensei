@@ -1,43 +1,72 @@
-# Selamlar, Ben Said (thessensei) 👋
+<div align="center">
 
-Şu an **17 yaşındayım** ve bilgisayar sistemlerinin, donanım mimarilerinin ve kodun ham gücünün mutfağına henüz 14-15 yaşındayken adım attım. Piyasadaki hazır eklentilerle veya sürükle-bırak sistemlerle (WordPress vb.) vakit kaybetmek yerine; terminal komutlarıyla, donanım ivmeli betiklerle ve veri tabanı optimizasyonlarıyla sistem mimarlığı yapıyorum.
+# 👋 Selamlar, Ben Muhammet (thessensei)
 
-Geliştirdiğim her projede amacım; ameleliği sıfırlamak, otomasyon hattı (pipeline) kurmak ve donanımın en dip performans sınırlarını zorlamaktır.
+**17 Yaşında Sistem, Altyapı ve Otomasyon Mühendisliği Adayı**
 
----
+[![Profile Views](https://komarev.com)](https://github.com)
+[![Followers](https://shields.io)](https://github.com?tab=followers)
+[![Stars](https://shields.io)](https://github.com?tab=stars)
 
-## 🔍 Teknik Odak Alanlarım & Mühendislik Vizyonum
-
-### 🛸 Gömülü Sistemler & Otonom Havacılık
-- **Otonom İHA Mimarisi:** Pixhawk, STM32 tabanlı uçuş kontrol kartları üzerinde `ArduPilot` ve `PX4` açık kaynaklı robotik yazılım mimarilerinin derlenmesi ve optimizasyonu [S3].
-- **Robotik Simülasyonlar:** Fiziksel donanım maliyetlerini yazılımla aşmak amacıyla, Linux (Ubuntu/Debian) altyapısında `ROS (Robot Operating System)` ve `Gazebo` simülatörleri üzerinde otonom uçuş algoritmaları kurgulama [S3].
-- **Model Roketçilik & Telemetri:** Katı/sıvı yakıtlı füzelerin kalbi olan aviyonik uçuş bilgisayarlarının tasarımı ve havada toplanan anlık sensör verilerini (İvmeölçer, Barometre, GPS) yer istasyonuna aktaran yazılım hatları [S3].
-
-### 🖥️ Medya Pipeline & Donanım İvmeli Otomasyon
-- **GPU Donanım Optimizasyonu:** NVIDIA GPU (`CUDA / NVENC`) donanım mimarisini doğrudan filtre graflarına kilitleyerek, geleneksel CPU kodlamalarına kıyasla **25x - 30x kat render hızı** sağlayan saf FFmpeg terminal betikleri geliştirme [S3].
-- **Deep Learning Ingestion:** ONNX Runtime (`dnn_processing`) backend altyapısını kullanarak, medya lokalizasyon süreçlerinde `RAISE SR Fallin v2` gibi derin öğrenme (AI Upscale) modellerini sunucu ve lokal seviyede çalıştırma [S3].
-
-### 📊 Kurumsal BT Altyapısı & Veri Yönetimi
-- **İlişkisel Veri Tabanları:** C# .NET ve JavaScript altyapısıyla entegre, asenkron sorgular koşturan ve yüksek yük altında veri tutarlılığını koruyan yapılandırılmış `MySQL / MariaDB` mimarileri [S3].
-- **Siber Savunma & Sanallaştırma:** Kurumsal ağ topolojilerinde `VMware ESXi` sanallaştırma güvenliği, `ESET PROTECT Web Console` üzerinden merkezi uç nokta (Endpoint) politikaları yönetimi ve zafiyet analizi (Pentest) süreçleri [S3].
+</div>
 
 ---
 
-## 🛠️ Teknolojik Cephanelik & Yetkinlikler
+### 👤 Hakkımda (About Me)
 
-| Katman | Teknolojiler & Araçlar |
+14-15 yaşından beri bilgisayar sistemlerinin, donanım mimarilerinin ve kodun ham gücünün mutfağına adım attım [S3, context]. Piyasadaki hazır eklentilerle vakit kaybetmek yerine; terminal komutlarıyla, donanım ivmeli betiklerle ve veri tabanı optimizasyonlarıyla sistem mimarlığı yapıyorum [S3, context].
+
+| Özellik | Detay / Deneyim |
 | :--- | :--- |
-| **Programlama Dilleri** | C# .NET, JavaScript (ES6+), Python, Bash Scripting, SQL |
-| **Yapay Zeka & Multimedya** | FFmpeg (Pure CLI), NVIDIA NVENC, CUDA, ONNX Runtime, Claude/GPT API |
-| **Sistem & Sanallaştırma** | Linux (Debian, Arch), VMware ESXi, VDS & Bandwidth Management |
-| **Siber Güvenlik & Denetim** | ESET PROTECT Console, Penetration Testing, ISO 27001 (BGYS), KVKK / 5651 |
+| 🚀 **Rol & Unvan** | System & Embedded Software Developer Candidate |
+| 📍 **Konum** | Kocaeli, Turkey |
+| 🎂 **Yaş & Deneyim** | **17 Yaşında** — 13-14 Yaşından Beri Aktif Kodlama [S3, context] |
+| 🎯 **Odak Alanları** | Otonom İHA/Aviyonik, Hardware-Accelerated Media Pipelines, Siber Savunma [S3, context] |
+| 💼 **Mevcut Durum** | Siber Güvenlik & BT Altyapı Yönetimi Stajyeri [context] |
 
 ---
 
-## 📊 Öne Çıkan Çalışmalarım & Portfolyom
+### 🛠️ Teknolojik Cephanelik (Tech Stack)
 
-- **🚀 [RandevuSistemi](https://github.com):** Arka planda MySQL ilişkisel veri tabanını asenkron sorgularla (`CRUD`) yöneten, formlar arası güvenli veri akışına sahip jilet gibi temiz kurumsal C# Windows Forms mimarisi [S3].
-- **🎬 nvenc-anime-pipeline:** RTX 4060 ekran kartının en dip donanım çiplerini kilitleyerek 25 dakikalık koca bir anime sezonunu sadece 30 saniyede 1080p yapan, iki dublaj arasından orijinal Japonca ses izini (`-map 0:a:1`) cımbızla çeken açık kaynaklı video otomasyonu [S3].
+<div align="left">
+
+#### 💻 Programlama Dilleri
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+#### ⚙️ Medya & Donanım Optimizasyonu (Yazılımcı Gücüm!)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+#### 🔒 Sistem, Sanallaştırma & Siber Savunma
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+</div>
 
 ---
-*"Sistem mühendisliği ve siber savunma bir ezber klavuzu değil; kodla ve donanımla kazanılan bir analitik dedektiflik oyunudur."* 🔍
+
+### 🔍 Teknik Odak Alanlarım & Projelerim
+
+#### 🛸 Gömülü Sistemler & Otonom Havacılık
+- **Otonom İHA Mimarisi:** Pixhawk, STM32 tabanlı kartlar üzerinde `ArduPilot` ve `PX4` açık kaynaklı robotik yazılım mimarilerinin derlenmesi [S3, context].
+- **Robotik Simülasyonlar:** Linux altyapısında `ROS (Robot Operating System)` ve `Gazebo` simülatörleri üzerinde otonom uçuş algoritmaları kurgulama [S3, context].
+- **Model Roketçilik & Telemetri:** Katı/sıvı yakıtlı füzelerin aviyonik uçuş bilgisayarlarının tasarımı ve anlık sensör verilerini (İvmeölçer, Barometre, GPS) yer istasyonuna aktaran yazılım hatları [S3, context].
+
+#### 📊 Öne Çıkan Çalışmalarım
+- 📦 **[RandevuSistemi](https://github.com/RandevuSistemi):** Arka planda MySQL ilişkisel veri tabanını asenkron sorgularla (`CRUD`) yöneten, formlar arası güvenli veri akışına sahip jilet gibi temiz kurumsal C# Windows Forms mimarisi [S3].
+- 🎬 **nvenc-anime-pipeline:** NVIDIA GPU (`CUDA / NVENC`) mimarisini doğrudan filtre graflarına kilitleyerek, medya lokalizasyon süreçlerinde **25x - 30x kat render hızı** sağlayan saf FFmpeg terminal betikleri [S3, context].
+
+---
+
+<div align="center">
+
+### 📉 GitHub İstatistiklerim (GitHub Stats)
+
+<img src="https://vercel.app" alt="Muhammet's GitHub Stats" />
+
+<img src="https://herokuapp.com" alt="GitHub Streak" />
+
+</div>
+
+---
+<div align="center">
+"Sistem mühendisliği ve siber savunma bir ezber kılavuzu değil; kodla ve donanımla kazanılan bir analitik dedektiflik oyunudur." 🔍
+</div>
