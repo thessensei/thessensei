@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Selamlar, Ben Muhammet (thessensei)
+# 👋 Selamlar, Ben Said (thessensei)
 
 **17 Yaşında Sistem, Altyapı ve Otomasyon Mühendisliği Adayı**
 
@@ -20,7 +20,7 @@
 | :--- | :--- |
 | 🚀 **Rol & Unvan** | System & Embedded Software Developer Candidate |
 | 📍 **Konum** | Kocaeli, Turkey |
-| 🎂 **Yaş & Deneyim** | **17 Yaşında** — 13-14 Yaşından Beri Aktif Kodlama [S3, context] |
+| 🎂 **Yaş & Deneyim** | **17 Yaşında** — 14-15 Yaşından Beri Aktif Kodlama [S3, context] |
 | 🎯 **Odak Alanları** | Otonom İHA/Aviyonik, Hardware-Accelerated Media Pipelines, Siber Savunma [S3, context] |
 | 💼 **Mevcut Durum** | Siber Güvenlik & BT Altyapı Yönetimi Stajyeri [context] |
 
@@ -31,13 +31,13 @@
 <div align="left">
 
 #### 💻 Programlama Dilleri
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
 
 #### ⚙️ Medya & Donanım Optimizasyonu (Yazılımcı Gücüm!)
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
 
 #### 🔒 Sistem, Sanallaştırma & Siber Savunma
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
 
 </div>
 
@@ -51,7 +51,7 @@
 - **Model Roketçilik & Telemetri:** Katı/sıvı yakıtlı füzelerin aviyonik uçuş bilgisayarlarının tasarımı ve anlık sensör verilerini (İvmeölçer, Barometre, GPS) yer istasyonuna aktaran yazılım hatları [S3, context].
 
 #### 📊 Öne Çıkan Çalışmalarım
-- 📦 **[RandevuSistemi](https://github.com/RandevuSistemi):** Arka planda MySQL ilişkisel veri tabanını asenkron sorgularla (`CRUD`) yöneten, formlar arası güvenli veri akışına sahip jilet gibi temiz kurumsal C# Windows Forms mimarisi [S3].
+- 📦 **[KuaförRandevuSistemi](https://github.com/mamiece/KuaforRandevuSistemi):** Arka planda MySQL ilişkisel veri tabanını asenkron sorgularla (`CRUD`) yöneten, formlar arası güvenli veri akışına sahip jilet gibi temiz kurumsal C# Windows Forms mimarisi [S3].
 - 🎬 **nvenc-anime-pipeline:** NVIDIA GPU (`CUDA / NVENC`) mimarisini doğrudan filtre graflarına kilitleyerek, medya lokalizasyon süreçlerinde **25x - 30x kat render hızı** sağlayan saf FFmpeg terminal betikleri [S3, context].
 
 ---
