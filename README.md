@@ -49,5 +49,5 @@ I stepped into the internals of computer systems, hardware architectures, and th
 ---
 
 <div align="center">
-"Systems engineering and cyber defense are not manuals to memorize; they are analytical games of deduction won through code and hardware logic." 🔍
+"No With WİSS ME" 🔍
 </div>
