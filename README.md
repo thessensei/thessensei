@@ -16,7 +16,7 @@ I stepped into the internals of computer systems, hardware architectures, and th
 | :--- | :--- |
 | 🚀 **Role & Title** | Systems & Embedded Software Developer Candidate |
 | 📍 **Location** | Kocaeli, Turkey |
-| 🎂 **Age & Experience** | **17 Years Old** — Active Coding Since Age 14 [S3] |
+| 🎂 **Age & Experience** | **17 Years Old** — Active Coding Since Age 14  |
 | 🎯 **Core Focus** | Autonomous UAV/Avionics, Hardware-Accelerated Media Pipelines, Cyber Defense |
 | 💼 **Current Status** | Cyber Security & IT Infrastructure Management Intern |
 
@@ -38,13 +38,13 @@ I stepped into the internals of computer systems, hardware architectures, and th
 ### 🔍 Technical Focus & Repositories
 
 #### 🛸 Embedded Systems & Autonomous Aviation
-- **Autonomous UAV Architecture:** Compiling and optimizing open-source robotics software frameworks (`ArduPilot` and `PX4`) on Pixhawk and STM32-based flight controllers [S3].
-- **Robotics Simulations:** Constructing autonomous flight algorithms on `ROS (Robot Operating System)` and `Gazebo` simulators inside isolated Linux (Ubuntu/Debian) environments [S3].
-- **Model Rocketry & Telemetry:** Designing avionics flight computers for solid/liquid-fueled rockets and building data pipelines to stream real-time sensor arrays (IMU, Barometer, GPS) to ground control stations [S3].
+- **Autonomous UAV Architecture:** Compiling and optimizing open-source robotics software frameworks (`ArduPilot` and `PX4`) on Pixhawk and STM32-based flight controllers .
+- **Robotics Simulations:** Constructing autonomous flight algorithms on `ROS (Robot Operating System)` and `Gazebo` simulators inside isolated Linux (Ubuntu/Debian) environments .
+- **Model Rocketry & Telemetry:** Designing avionics flight computers for solid/liquid-fueled rockets and building data pipelines to stream real-time sensor arrays (IMU, Barometer, GPS) to ground control stations .
 
 #### 📊 Featured Open-Source Projects
-- 📦 **[KuaförRandevuSistemi](https://github.com/mamiece/KuaforRandevuSistemi):** A robust desktop automation system utilizing a structural **C# Windows Forms** frontend backed by an asynchronous **MySQL** relational database layer executing clean CRUD transactions [S3].
-- 🎬 **[nvenc-anime-pipeline](https://github.com/mamiece/nvenc-anime-pipeline):** A zero-GUI, high-volume batch processing utility automating media localization pipelines by locking directly into NVIDIA GPU (`CUDA / NVENC`) filter graphs, achieving up to **30x encoding speeds** [S3].
+- 📦 **[KuaförRandevuSistemi](https://github.com/mamiece/KuaforRandevuSistemi):** A robust desktop automation system utilizing a structural **C# Windows Forms** frontend backed by an asynchronous **MySQL** relational database layer executing clean CRUD transactions .
+- 🎬 **[nvenc-anime-pipeline](https://github.com/mamiece/nvenc-anime-pipeline):** A zero-GUI, high-volume batch processing utility automating media localization pipelines by locking directly into NVIDIA GPU (`CUDA / NVENC`) filter graphs, achieving up to **30x encoding speeds**.
 
 ---
 
