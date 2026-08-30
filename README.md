@@ -52,8 +52,8 @@
 
 #### 📊 Öne Çıkan Çalışmalarım
 - 📦 **[KuaförRandevuSistemi](https://github.com/mamiece/KuaforRandevuSistemi):** Arka planda MySQL ilişkisel veri tabanını asenkron sorgularla (`CRUD`) yöneten, formlar arası güvenli veri akışına sahip jilet gibi temiz kurumsal C# Windows Forms mimarisi [S3].
-- 🎬 **nvenc-anime-pipeline:** NVIDIA GPU (`CUDA / NVENC`) mimarisini doğrudan filtre graflarına kilitleyerek, medya lokalizasyon süreçlerinde **25x - 30x kat render hızı** sağlayan saf FFmpeg terminal betikleri [S3, context].
-
+- 🎬 **[nvenc-anime-pipeline](https://github.com/mamiece/nvenc-anime-pipeline):** NVIDIA GPU (`CUDA / NVENC`) mimarisini doğrudan filtre graflarına kilitleyerek, medya lokalizasyon süreçlerinde **25x - 30x kat render hızı** sağlayan saf FFmpeg terminal betikleri [S3].
+https://camo.githubusercontent.com/44aa372e5dc491a376931ce80949f7cd735361670d3da1fd9f73535c143b441f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c657870726573732c74732c6d6f6e676f64622c72656163742c6e6578746a732c68746d6c2c6373732c6769742c62756e2c76657263656c2c646973636f72646a73267468656d653d6461726b
 ---
 
 <div align="center">
