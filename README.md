@@ -54,13 +54,11 @@
 - 📦 **[KuaförRandevuSistemi](https://github.com/mamiece/KuaforRandevuSistemi):** Arka planda MySQL ilişkisel veri tabanını asenkron sorgularla (`CRUD`) yöneten, formlar arası güvenli veri akışına sahip jilet gibi temiz kurumsal C# Windows Forms mimarisi [S3].
 - 🎬 **[nvenc-anime-pipeline](https://github.com/mamiece/nvenc-anime-pipeline):** NVIDIA GPU (`CUDA / NVENC`) mimarisini doğrudan filtre graflarına kilitleyerek, medya lokalizasyon süreçlerinde **25x - 30x kat render hızı** sağlayan saf FFmpeg terminal betikleri [S3].
 
---- ### 🛠️ Teknolojik Cephanelik (Tech Stack)
-
-#### 💻 Kullandığım Diller & Teknolojiler
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev" />
-</a>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <div align="center">
 
