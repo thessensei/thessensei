@@ -1,6 +1,6 @@
 # 👋 Greetings, I'm Said (thessensei)
 
-**17-Year-Old Systems, Infrastructure & Automation Engineering Candidate**
+<img src="banner.gif" width="100%" height="120" style="object-fit: cover; border-radius: 8px;" />
 
 ![](https://komarev.com)
 
