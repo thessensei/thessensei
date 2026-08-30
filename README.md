@@ -43,8 +43,9 @@ I stepped into the internals of computer systems, hardware architectures, and th
 - **Model Rocketry & Telemetry:** Designing avionics flight computers for solid/liquid-fueled rockets and building data pipelines to stream real-time sensor arrays (IMU, Barometer, GPS) to ground control stations .
 
 #### 📊 Featured Open-Source Projects
-- 📦 **[KuaförRandevuSistemi](https://github.com/mamiece/KuaforRandevuSistemi):** A robust desktop automation system utilizing a structural **C# Windows Forms** frontend backed by an asynchronous **MySQL** relational database layer executing clean CRUD transactions .
-- 🎬 **[nvenc-anime-pipeline](https://github.com/mamiece/nvenc-anime-pipeline):** A zero-GUI, high-volume batch processing utility automating media localization pipelines by locking directly into NVIDIA GPU (`CUDA / NVENC`) filter graphs, achieving up to **30x encoding speeds**.
+- 📦 **[KuaförRandevuSistemi](https://github.com/thessensei/KuaforRandevuSistemi):** A robust desktop automation system utilizing a structural **C# Windows Forms** frontend backed by an asynchronous **MySQL** relational database layer executing clean CRUD transactions .
+- 🎬 **[nvenc-anime-pipeline](https://github.com/thessensei/nvenc-anime-pipeline):** A zero-GUI, high-volume batch processing utility automating media localization pipelines by locking directly into NVIDIA GPU (`CUDA / NVENC`) filter graphs, achieving up to **30x encoding speeds**.
+- 🔒 **[async-network-scanner](https://github.com/thessensei/async-network-scanner):** A high-performance network reconnaissance utility utilizing Python `asyncio` to execute non-blocking port probing and corporate subnet security auditing [S3].
 
 ---
 
