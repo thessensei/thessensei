@@ -1,67 +1,50 @@
-<div align="center">
+# 👋 Greetings, I'm Said (thessensei)
 
-# 👋 Selamlar, Ben Said (thessensei)
+**17-Year-Old Systems, Infrastructure & Automation Engineering Candidate**
 
-**17 Yaşında Sistem, Altyapı ve Otomasyon Mühendisliği Adayı**
-
-[![Profile Views](https://komarev.com)](https://github.com/mamiece)
-[![Followers](https://shields.io)](https://github.com/mamiece?tab=followers)
-[![Stars](https://shields.io)](https://github.com/mamiece?tab=stars)
+![](https://komarev.com)
 
 </div>
 
 ---
 
-### 👤 Hakkımda (About Me)
+### 👤 About Me
 
-14-15 yaşından beri bilgisayar sistemlerinin, donanım mimarilerinin ve kodun ham gücünün mutfağına adım attım [S3, context]. Piyasadaki hazır eklentilerle vakit kaybetmek yerine; terminal komutlarıyla, donanım ivmeli betiklerle ve veri tabanı optimizasyonlarıyla sistem mimarlığı yapıyorum [S3, context].
+I stepped into the internals of computer systems, hardware architectures, and the raw power of code at the age of 14-15. Instead of wasting time with ready-made plugins or drag-and-drop systems, I architect systems via pure terminal commands, hardware-accelerated scripts, and heavy database optimizations.
 
-| Özellik | Detay / Deneyim |
+| Feature | Details / Experience |
 | :--- | :--- |
-| 🚀 **Rol & Unvan** | System & Embedded Software Developer Candidate |
-| 📍 **Konum** | Kocaeli, Turkey |
-| 🎂 **Yaş & Deneyim** | **17 Yaşında** — 14-15 Yaşından Beri Aktif Kodlama [S3, context] |
-| 🎯 **Odak Alanları** | Otonom İHA/Aviyonik, Hardware-Accelerated Media Pipelines, Siber Savunma [S3, context] |
-| 💼 **Mevcut Durum** | Siber Güvenlik & BT Altyapı Yönetimi Stajyeri [context] |
+| 🚀 **Role & Title** | Systems & Embedded Software Developer Candidate |
+| 📍 **Location** | Kocaeli, Turkey |
+| 🎂 **Age & Experience** | **17 Years Old** — Active Coding Since Age 14 [S3] |
+| 🎯 **Core Focus** | Autonomous UAV/Avionics, Hardware-Accelerated Media Pipelines, Cyber Defense |
+| 💼 **Current Status** | Cyber Security & IT Infrastructure Management Intern |
 
 ---
 
-### 🛠️ Teknolojik Cephanelik (Tech Stack)
+### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,ps,py,c,cs,dotnet,unity,unreal" />
+    <img src="https://skillicons.dev" />
   </a>
 </p>
 
-</div>
+---
+
+### 🔍 Technical Focus & Repositories
+
+#### 🛸 Embedded Systems & Autonomous Aviation
+- **Autonomous UAV Architecture:** Compiling and optimizing open-source robotics software frameworks (`ArduPilot` and `PX4`) on Pixhawk and STM32-based flight controllers [S3].
+- **Robotics Simulations:** Constructing autonomous flight algorithms on `ROS (Robot Operating System)` and `Gazebo` simulators inside isolated Linux (Ubuntu/Debian) environments [S3].
+- **Model Rocketry & Telemetry:** Designing avionics flight computers for solid/liquid-fueled rockets and building data pipelines to stream real-time sensor arrays (IMU, Barometer, GPS) to ground control stations [S3].
+
+#### 📊 Featured Open-Source Projects
+- 📦 **[KuaförRandevuSistemi](https://github.com/mamiece/KuaforRandevuSistemi):** A robust desktop automation system utilizing a structural **C# Windows Forms** frontend backed by an asynchronous **MySQL** relational database layer executing clean CRUD transactions [S3].
+- 🎬 **[nvenc-anime-pipeline](https://github.com/mamiece/nvenc-anime-pipeline):** A zero-GUI, high-volume batch processing utility automating media localization pipelines by locking directly into NVIDIA GPU (`CUDA / NVENC`) filter graphs, achieving up to **30x encoding speeds** [S3].
 
 ---
 
-### 🔍 Teknik Odak Alanlarım & Projelerim
-
-#### 🛸 Gömülü Sistemler & Otonom Havacılık
-- **Otonom İHA Mimarisi:** Pixhawk, STM32 tabanlı kartlar üzerinde `ArduPilot` ve `PX4` açık kaynaklı robotik yazılım mimarilerinin derlenmesi [S3, context].
-- **Robotik Simülasyonlar:** Linux altyapısında `ROS (Robot Operating System)` ve `Gazebo` simülatörleri üzerinde otonom uçuş algoritmaları kurgulama [S3, context].
-- **Model Roketçilik & Telemetri:** Katı/sıvı yakıtlı füzelerin aviyonik uçuş bilgisayarlarının tasarımı ve anlık sensör verilerini (İvmeölçer, Barometre, GPS) yer istasyonuna aktaran yazılım hatları [S3, context].
-
-#### 📊 Öne Çıkan Çalışmalarım
-- 📦 **[KuaförRandevuSistemi](https://github.com/mamiece/KuaforRandevuSistemi):** Arka planda MySQL ilişkisel veri tabanını asenkron sorgularla (`CRUD`) yöneten, formlar arası güvenli veri akışına sahip jilet gibi temiz kurumsal C# Windows Forms mimarisi [S3].
-- 🎬 **[nvenc-anime-pipeline](https://github.com/mamiece/nvenc-anime-pipeline):** NVIDIA GPU (`CUDA / NVENC`) mimarisini doğrudan filtre graflarına kilitleyerek, medya lokalizasyon süreçlerinde **25x - 30x kat render hızı** sağlayan saf FFmpeg terminal betikleri [S3].
-
-
-
 <div align="center">
-
-### 📉 GitHub İstatistiklerim (GitHub Stats)
-
-<img src="https://vercel.app" alt="Muhammet's GitHub Stats" />
-
-<img src="https://herokuapp.com" alt="GitHub Streak" />
-
-</div>
-
----
-<div align="center">
-"Sistem mühendisliği ve siber savunma bir ezber kılavuzu değil; kodla ve donanımla kazanılan bir analitik dedektiflik oyunudur." 🔍
+"Systems engineering and cyber defense are not manuals to memorize; they are analytical games of deduction won through code and hardware logic." 🔍
 </div>
