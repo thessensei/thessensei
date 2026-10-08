@@ -28,7 +28,7 @@ I stepped into the internals of computer systems, hardware architectures, and th
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,py,ps,c,cs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,py,ps,c,cs,php" />
   </a>
 </p>
 
