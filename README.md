@@ -2,7 +2,7 @@
 
 <img src="assets/banner.gif" width="100%" alt="thessensei" />
 
-<h1>Hi, I'm Muhammet Said <code>(thessensei)</code></h1>
+<h1>Hi, I'm Sensei Said <code>(thessensei)</code></h1>
 
 <a href="https://github.com/thessensei">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=E84C5C&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Systems+%26+Embedded+Software;Autonomous+UAV+%2F+Avionics;Hardware-Accelerated+Media+Pipelines;Cyber+Defense" alt="Full-Stack Developer · Systems & Embedded · UAV/Avionics · Media Pipelines · Cyber Defense" />
