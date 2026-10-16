@@ -96,8 +96,7 @@ I stepped into the internals of computer systems, hardware architectures and the
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thessensei&bg_color=0D0B0D&color=E84C5C&line=E84C5C&point=FFFFFF&area=true&hide_border=true" alt="contribution graph" />
-
+ü
 </div>
 
 ---
