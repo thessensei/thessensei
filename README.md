@@ -102,6 +102,17 @@ I stepped into the internals of computer systems, hardware architectures and the
 
 ---
 
+## 📫 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-thessensei-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thessensei)
+
+</div>
+
+
+---
+
 <div align="center">
 
 **“Build it from the terminal.”** 🔍
