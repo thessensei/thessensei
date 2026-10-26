@@ -25,7 +25,6 @@ I stepped into the internals of computer systems, hardware architectures and the
 |  |  |
 | :--- | :--- |
 | 🚀 **Role** | Systems & Embedded Software Developer Candidate |
-| 📍 **Location** | Kocaeli, Türkiye |
 | 🎂 **Age / Experience** | **17** — actively coding since **14** |
 | 🎯 **Core Focus** | Autonomous UAV/Avionics · Hardware-Accelerated Media · Cyber Defense |
 | 💼 **Currently** | Cyber Security & IT Infrastructure Management Intern |
