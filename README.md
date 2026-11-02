@@ -11,7 +11,6 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-thessensei-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thessensei)
-[![Location](https://img.shields.io/badge/Kocaeli-Türkiye-e00b2b?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Kocaeli)
 [![Profile views](https://komarev.com/ghpvc/?username=thessensei&label=profile%20views&color=e00b2b&style=flat-square)](https://github.com/thessensei)
 
 </div>
