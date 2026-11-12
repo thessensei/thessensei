@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.gif" width="100%" alt="thessensei" />
+<img src="banner.gif" width="100%" alt="thessensei" />
 
 <h1>Hi, I'm Sensei Said <code>(thessensei)</code></h1>
 
