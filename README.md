@@ -84,17 +84,7 @@ I stepped into the internals of computer systems, hardware architectures and the
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thessensei&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0D0B0D&title_color=E84C5C&icon_color=E84C5C&text_color=C9C9C9" alt="thessensei GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thessensei&layout=compact&langs_count=8&hide_border=true&bg_color=0D0B0D&title_color=E84C5C&text_color=C9C9C9" alt="most used languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=thessensei&hide_border=true&background=0D0B0D&ring=E84C5C&fire=E84C5C&currStreakNum=C9C9C9&currStreakLabel=E84C5C&sideNums=C9C9C9&sideLabels=C9C9C9&dates=6B6B6B" alt="contribution streak" />
-
-<br/>
-
-
 </div>
 
 ---
