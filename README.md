@@ -104,6 +104,6 @@ I stepped into the internals of computer systems, hardware architectures and the
 
 **“Build it from the terminal.”** 🔍
 
-<sub>UAV · Avionics · CUDA pipelines · Cyber defense — from Kocaeli, Türkiye</sub>
+<sub>UAV · Avionics · CUDA pipelines · Cyber defense</sub>
 
 </div>
