@@ -64,7 +64,7 @@ I stepped into the internals of computer systems, hardware architectures and the
 
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
-| **[KuaforRandevuSistemi](https://github.com/thessensei/KuaforRandevuSistemi)** | `C#` `WinForms` `MySQL` | Desktop appointment automation backed by an asynchronous relational DB layer executing clean CRUD transactions |
+| **[HairSalonAppointmentSystem](https://github.com/thessensei/HairSalonAppointmentSystem)** | `C#` `WinForms` `MySQL` | Desktop appointment automation backed by an asynchronous relational DB layer executing clean CRUD transactions |
 | **[nvenc-anime-pipeline](https://github.com/thessensei/nvenc-anime-pipeline)** | `CUDA` `NVENC` `Batchfile` | Zero-GUI batch encoder for media localization pipelines — up to **30x encoding speeds** |
 | **[async-network-scanner](https://github.com/thessensei/async-network-scanner)** | `Python` `asyncio` | High-performance non-blocking port probing and subnet security auditing |
 | **[HastaneOtomasyon](https://github.com/thessensei/HastaneOtomasyon)** | `C#` `MySQL` | Hospital automation — patient, appointment and record management |
