@@ -28,15 +28,6 @@ I stepped into the internals of computer systems, hardware architectures and the
 | 🎯 **Core Focus** | Autonomous UAV/Avionics · Hardware-Accelerated Media · Cyber Defense |
 | 💼 **Currently** | Cyber Security & IT Infrastructure Management Intern |
 
----
-
-## 🖥️ Terminal
-
-<div align="center">
-  <img src="assets/terminal.gif" width="660" alt="terminal session: whoami, cat focus.txt, uptime" />
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
